@@ -9,10 +9,15 @@ Disfruté trabajando en este proyecto, ya que me permitió practicar mis habilid
 Sus usuarios deberían poder:
 
 ▪︎ Añade su correo electrónico y envía el formulario
+
 ▪︎ Ver un mensaje de éxito con su correo electrónico después de enviar correctamente el formulario
+
 ▪︎ Ver mensajes de validación de formulario si:
+
 ▪︎ El campo queda vacío
+
 ▪︎ La dirección de correo electrónico no está formateada correctamente
+
 
 # Captura de pantalla
 ![active-states](https://github.com/user-attachments/assets/ee01582d-2be8-4518-99ac-1cb6494b1f98)
@@ -20,7 +25,8 @@ Sus usuarios deberían poder:
 
 # Enlaces
 ▪︎ URL del desafío = https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv
-▪︎ URL del sitio en vivo =
+
+▪︎ URL del sitio en vivo = https://roldanlautaro.github.io/Solucion-newsletter-sign-up/
 
 # Que aprendí
 En este desafío aprendí muchísimo sobre css y JavaScript como pueden funcionar juntas
