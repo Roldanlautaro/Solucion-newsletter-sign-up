@@ -29,6 +29,9 @@ Sus usuarios deberían poder:
 ▪︎ URL del sitio en vivo = https://roldanlautaro.github.io/Solucion-newsletter-sign-up/
 
 # Que aprendí
+
 En este desafío aprendí muchísimo sobre css y JavaScript como pueden funcionar juntas
+
 Aprendí mucho sobre  " style = display none " con lógica de JavaScript 
+
 Además aprendí también un poco mas sobre la lógica de JavaScript 
